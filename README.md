@@ -13,7 +13,8 @@ The Indian Premier League (IPL) stands as one of the most popular and dynamic cr
 --Player and Team Insights: Uncovering insights into player performance, team strategies, match dynamics, and historical trends.
 
 --Statistical Trends: Identifying statistical trends, such as highest run-scorers, top wicket-takers, match-winning performances, and team performance over seasons.
---Data Visualization: This project showcases visual representation of data using Python libraries like Matplotlib, Seaborn, numpy and Pandas. The aim is to                                 communicate insights clearly and effectively through visual tools.
+
+ --Data Visualization: This project showcases visual representation of data using Python libraries like Matplotlib, Seaborn, numpy and Pandas. The aim is to                                 communicate insights clearly and effectively through visual tools.
 ## Conclusion
 
 This project aims to leverage Python's data analysis capabilities to provide comprehensive insights into the IPL, catering to cricket enthusiasts, analysts, and stakeholders within the sports industry. The analysis endeavors to unearth valuable patterns, visualization and trends that could influence strategic decisions in the context of the IPL.
